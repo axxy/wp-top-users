@@ -1,0 +1,15 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/top-users-block/style.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************/
+.wp-block-ahmedyahya-top-users-block .top-users-list {
+  list-style-type: none;
+  padding: 0;
+}
+.wp-block-ahmedyahya-top-users-block .top-users-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=style-index.css.map*/
