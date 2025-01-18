@@ -38,4 +38,5 @@
     │   └── class-wp-tov-processor.php
 ```
 ## Notes
+- I included the [wp-background-processing](https://github.com/deliciousbrains/wp-background-processing) library in the plugin's "includes" dir for easy/fast testing
 - This Code follows the instructions provided in the mail but could be improved by implementing more specialized tools, for monitoring, caching (like Redis or Memcached), or queues (RabbitMQ/Kafka/AWS SQS)
